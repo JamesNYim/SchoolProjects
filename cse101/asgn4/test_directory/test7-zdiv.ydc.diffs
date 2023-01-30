@@ -1,6 +1,0 @@
-1c1,3
-< ydc: Divide by 0
----
-> dc: divide by zero
-> 0
-> 34
