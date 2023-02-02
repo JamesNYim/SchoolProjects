@@ -1,6 +1,6 @@
 # the-bakery-shop
 
-*Grab a croissant and look at school work*
+*Croissants & School*
 
 ## Description
 
