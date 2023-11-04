@@ -78,7 +78,7 @@ BigInteger::BigInteger(std::string s)
 	}
 
 	//Looping through getting number
-	for (size_t i = startingIndex; i < s.size() - 1; i = i)
+	for (size_t i = startingIndex; i < s.size() - 1;)
 
 	{
 		std::string nodeValue;
