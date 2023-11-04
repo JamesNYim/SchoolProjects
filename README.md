@@ -1,6 +1,6 @@
-# the-bakery-shop
+ # SchoolProjects
 
-*Croissants & School*
+*Projects Ive done in School*
 
 ## Description
 
