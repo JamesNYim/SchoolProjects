@@ -28,6 +28,10 @@ public:
    BigInteger();
 
    // BigInteger()
+   // Constructor that creates a new BigInteger from the long value x.
+   BigInteger(long x);
+
+   // BigInteger()
    // Constructor that creates a new BigInteger from the string s.
    // Pre: s is a non-empty string consisting of (at least one) base 10 digit
    // {0,1,2,3,4,5,6,7,8,9}, and an optional sign {+,-} prefix.

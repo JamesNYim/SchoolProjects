@@ -1,14 +1,14 @@
 # Assignment 6: Big big big numbers
 
 ## Short description:
+	This class is able to add subtract and multiply really big numbers. Division is not supported in this version
 
 
 ## Build
 	type "make" on the command line with the Makefile provided in the directory
 
 ## Running
-	This current version's Arithmetic does not work. It is incomplete
-	The addition function works as intended, the subtraction function works but not for subtraction assign.
+
 
 ## Cleaning
 	Alternatively type "clean" on the command line, using Makefile provided
