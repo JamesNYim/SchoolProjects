@@ -1,0 +1,9 @@
+Client request served,4-Tuple:,127.0.0.1,80,127.0.0.1,55146,Requested URL,/Users/jamesyim/Desktop/School/cse150/FinalProject/non_existent_file.txt,HTTP/1.1 404 Not Found,Bytes transmitted:,0
+Client request served,4-Tuple:,127.0.0.1,1234,127.0.0.1,63580,Requested URL,./serverData/HelloWorld.html,HTTP/1.1 200 OK,Bytes transmitted:,156
+Client request served,4-Tuple:,127.0.0.1,1234,127.0.0.1,65118,Requested URL,./filesystem/README.docx,HTTP/1.1 200 OK,Bytes transmitted:,7811
+Client request served,4-Tuple:,127.0.0.1,1234,127.0.0.1,65123,Requested URL,./filesystem/Dog1.jpg,HTTP/1.1 404 Not Found,Bytes transmitted:,0
+Client request served,4-Tuple:,127.0.0.1,8014,127.0.0.1,49646,Requested URL,./filesystem/HTMLfile_with_local_images/Example1.html,HTTP/1.1 200 OK,Bytes transmitted:,410
+Client request served,4-Tuple:,127.0.0.1,8014,127.0.0.1,49652,Requested URL,./filesystem/README.docx,HTTP/1.1 200 OK,Bytes transmitted:,7811
+Client request served,4-Tuple:,127.0.0.1,8014,127.0.0.1,49654,Requested URL,./filesystem/large_file/10MB.zip,HTTP/1.1 200 OK,Bytes transmitted:,10485760
+Client request served,4-Tuple:,127.0.0.1,1234,127.0.0.1,50203,Requested URL,./HelloWorld.html,HTTP/1.1 200 OK,Bytes transmitted:,127
+Client request served,4-Tuple:,127.0.0.1,1233,127.0.0.1,50232,Requested URL,./HelloWorld.html,HTTP/1.1 200 OK,Bytes transmitted:,127

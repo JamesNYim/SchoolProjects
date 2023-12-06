@@ -1,0 +1,5 @@
+Client request served,4-Tuple:,127.0.0.1,6969,127.0.0.1,57409,Requested URL,.//,HTTP/1.1 200 OK,Bytes transmitted:,416
+Client request served,4-Tuple:,127.0.0.1,6969,127.0.0.1,57413,Requested URL,./,HTTP/1.1 200 OK,Bytes transmitted:,416
+Client request served,4-Tuple:,127.0.0.1,6969,127.0.0.1,57422,Requested URL,.//,HTTP/1.1 200 OK,Bytes transmitted:,416
+Client request served,4-Tuple:,127.0.0.1,6969,127.0.0.1,57431,Requested URL,./,HTTP/1.1 200 OK,Bytes transmitted:,416
+Client request served,4-Tuple:,127.0.0.1,6969,127.0.0.1,57434,Requested URL,./filesystem/,HTTP/1.1 200 OK,Bytes transmitted:,288
